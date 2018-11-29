@@ -52,3 +52,7 @@ same thing..  nt flag with instead flag will also work.
 
 A test file will be created , where all password will bw saved 
 * there is 2 symbol which this script could get as the argument :  "<" , ">"  
+
+
+I also had included some password txt file..
+thank u
