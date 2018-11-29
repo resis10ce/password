@@ -20,24 +20,24 @@ This script is provided with 5 flags for the aggresively generating password.
 I had took gumla as the keyword for password generation.
 OPen the cmd where pasw.py is kept.
 type :
-*python pasw.py gumla
+* python pasw.py gumla
 
-*python pasw.py gumla -nt 
+* python pasw.py gumla -nt 
 if you don't want to keep Date in password , add -nt flag like above
 
 
-python pasw.py gumla  -nt -l DD
-*If you want to put something in left than add with -l flag
+* python pasw.py gumla  -nt -l DD
+If you want to put something in left than add with -l flag
 
-*python pasw.py gumla -nt -r l
+* python pasw.py gumla -nt -r l
 If you want to keep any character in right .. than fllow that character with -r flag
 
-*python pasw.py gumla -i g o
+* python pasw.py gumla -i g o
 This is quite interesting  for me  to wite code for it..
 instead flag -i 
 it will replace g character in gumla  with o
 
-*python pasw.py gumla -nt -i g o
+* python pasw.py gumla -nt -i g o
 same thing..  nt flag with instead flag will also work.
 
 A test file will be created , where all password will bw saved 
