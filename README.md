@@ -29,7 +29,7 @@ type :
 
 
 * python pasw.py gumla  -nt -l DD
-      If you want to put something in left than add with -l flag
+      If you want to put some character in left than add with -l flag
 ![](image/c.jpeg)
 
 * python pasw.py gumla -nt -r l
