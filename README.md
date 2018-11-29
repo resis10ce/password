@@ -1,5 +1,5 @@
 # password
-finds your password if it is based in your name
+finds your password if it is based on your name
 
 
 ---------------How I got This idea----------------
@@ -7,7 +7,9 @@ I got this idea. when i started learn bug hunting. one day , i found glitch in m
 I thought to bruteforce it with my regular password file :) basically.. passwords from  haddix sir repositary #seclist.
 some where in my mind .. 
 I Was knowing that i will not get the match..
-I thought since domain is regestred with the vc's name . I might get password match  with his name only.
+I thought that  since domain is registered with the vc's name . I might get password match only  with his name.
+so i scripted this on  python 3 . 
+suppose name is gumla..  so these could be the  passwords
 
 Eg: Gumla
     gum7@
@@ -16,7 +18,7 @@ Eg: Gumla
     
    This way i  started to build up this script..
 --------------------------------------------+++++++++++++++++++++++++------------------------------------
-This script is provided with 5 flags for the aggresively generating password.
+This script is provided with 5 flags for the aggressively generating password.
 I had took gumla as the keyword for password generation.
 OPen the cmd where pasw.py is kept.
 type :
